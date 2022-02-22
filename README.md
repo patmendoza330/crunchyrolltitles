@@ -16,7 +16,7 @@ locate, or scrape the anime titles that are housed on various platforms.
 The most popular platforms for viewing anime titles are:
 
 -   Crunchyroll
--   Funimation
+-   [Funimation](https://github.com/patmendoza330/funimationtitles)
 -   Netflix
 -   Hulu
 -   Amazon Prime
